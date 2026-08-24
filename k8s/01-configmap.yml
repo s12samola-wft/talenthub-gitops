@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+
+metadata:
+  name: talenthub-config
+
+data:
+  APP_NAME: "TalentHub"
+  ENVIRONMENT: "Development"
+  COMPANY: "Webforx Technology"
+  TIME_ZONE: "UTC"
+  LOG_LEVEL: "INFO"
