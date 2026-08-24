@@ -21,4 +21,4 @@ spec:
           command:
             - sh
             - -c
-            - while true; do echo "TalentHub logging agent VERSION 2 is collecting logs..."; sleep 30; donie
+            - while true; do echo "TalentHub logging agent VERSION 2 is collecting logs..."; sleep 30; done
